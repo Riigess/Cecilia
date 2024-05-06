@@ -11,5 +11,5 @@ macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveB
 MarkupSafe==2.1.2
 pytz==2023.3
 six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/six-1.15.0-py2.py3-none-any.whl
-Werkzeug==2.3.8
+Werkzeug==3.0.3
 zipp==3.15.0
